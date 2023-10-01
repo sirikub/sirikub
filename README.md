@@ -5,5 +5,6 @@
 Мой путь в it начался с Воронежского государственного университета (ВГУ). В 2023 году я получил степень магистра по направлению «Радиофизика». С июня 2023 года являюсь аспирантом ВГУ и паралельно изучаю веб-разработку.
 </div>
 <h3>🤝 Социальные сети:</h3>
-<p><a href="https://t.me/sirikub"><img src="" width="50" 
-   height="50" alt="Пример"></a></p>
+<p style="float:left"><a href="https://t.me/sirikub"><img src="https://github.com/sirikub/sirikub/blob/main/teleg.png"</a></p>
+<p style="float:left"><a href="https://vk.ru/sirikub"><img src="https://github.com/sirikub/sirikub/blob/main/icons-vk.png"</a></p>
+<p style="float:left"><a href="https://t.me/sirikub"><img src="https://github.com/sirikub/sirikub/blob/main/linkid.png"</a></p>
